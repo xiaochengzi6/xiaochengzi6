@@ -24,17 +24,18 @@
 - 在线简历：[在线编辑、导出 pdf : https://github.com/xiaochengzi6/resume](https://xiaochengzi6.gitee.io/resume/#/MainPage)
 - 有待完善[文件解析](https://github.com/xiaochengzi6/file-analyse)
 
-
-#### 源码心得
-- history [源码心得](https://github.com/xiaochengzi6/history)
-- react-router [源码心得](https://github.com/xiaochengzi6/mini-react-router)
-- rollup [源码及注释](https://github.com/xiaochengzi6/pack)
-- ahook [源码及注释](https://github.com/xiaochengzi6/rx-hook)
-- redux [源码及实现](https://github.com/xiaochengzi6/react-redux-demo)
-- underscore [源码及实现](https://github.com/xiaochengzi6/rx-utils)
-- jsx [原理及实现](https://github.com/xiaochengzi6/jsx)
-- acorn [源码及注释(AST)](https://github.com/xiaochengzi6/rx-acorn)
-- quill [源码调试](https://github.com/xiaochengzi6/quill-scource-code)
+<details>
+    <summary>源码心得</summary>
+    <li>history<a target="_blank" href="https://github.com/xiaochengzi6/history">源码心得</a></li>
+    <li>react-router<a target="_blank" href="https://github.com/xiaochengzi6/mini-react-router">源码及心得</a></li>
+    <li>rollup<a target="_blank" href="https://github.com/xiaochengzi6/pack">源码及注释</a></li>
+    <li>ahook<a target="_blank" href="https://github.com/xiaochengzi6/rx-hook">源码及注释</a></li>
+    <li>redux<a target="_blank" href="https://github.com/xiaochengzi6/react-redux-demo">源码及实现</a></li>
+    <li>underscore<a target="_blank" href="https://github.com/xiaochengzi6/rx-utils">源码及实现</a></li>
+    <li>jsx<a target="_blank" href="https://github.com/xiaochengzi6/jsx">原理及实现</a></li>
+    <li>acorn<a target="_blank" href="https://github.com/xiaochengzi6/rx-acorn">源码及注释</a>(AST)</li>
+    <li>quill<a target="_blank" href="https://github.com/xiaochengzi6/quill-scource-code">源码及调试</a></li>
+</details>
 
 #### 造轮子
 - promise 的简易[实现](https://github.com/xiaochengzi6/Promise)
