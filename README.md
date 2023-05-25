@@ -37,21 +37,10 @@
     <li>quill<a target="_blank" href="https://github.com/xiaochengzi6/quill-scource-code">源码及调试</a></li>
 </details>
 
-#### 造轮子
-- promise 的简易[实现](https://github.com/xiaochengzi6/Promise)
-- javascript 的相关[问题](https://github.com/xiaochengzi6/javascript-demo)
 
-<!--
-**xiaochengzi6/xiaochengzi6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+    <summary>源码心得</summary>
+    <li>promise的简单<a target="_blank" href="https://github.com/xiaochengzi6/Promise">实现</a></li>
+    <li>javascript 的相关<a target="_blank" href="https://github.com/xiaochengzi6/javascript-demo">问题</a></li>
+</details>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
