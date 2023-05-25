@@ -39,7 +39,7 @@
 
 
 <details>
-    <summary>源码心得</summary>
+    <summary>造轮子</summary>
     <li>promise的简单<a target="_blank" href="https://github.com/xiaochengzi6/Promise">实现</a></li>
     <li>javascript 的相关<a target="_blank" href="https://github.com/xiaochengzi6/javascript-demo">问题</a></li>
 </details>
