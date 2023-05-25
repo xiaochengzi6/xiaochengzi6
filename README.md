@@ -7,7 +7,7 @@
 - 📫我的邮箱：2742217795@qq.com
 - 📝个人博客：https://github.com/xiaochengzi6/Blog
 
-#### 技术栈
+#### 技术栈与开发工具
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" /></code>
