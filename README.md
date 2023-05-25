@@ -7,17 +7,11 @@
 - 📫我的邮箱：2742217795@qq.com
 - 📝个人博客：https://github.com/xiaochengzi6/Blog
 #### 我的开源项目
-1. 简易的 js 编译器：
-   - [将 JS 代码生成 ast](https://github.com/xiaochengzi6/simple-ast)
+1. 简易的 js 编译器：[将 JS 代码生成 ast](https://github.com/xiaochengzi6/simple-ast)
+2. react 脚手架：[使用 webpack + Babel 搭建具备多种功能，较为灵活](https://github.com/xiaochengzi6/Rx-pack)
+3. 文件树形图转路径：[根据项目模板(树形图)自动创建文件](https://github.com/xiaochengzi6/rx-file)
 
-2. react 脚手架：
-   - [使用 webpack + Babel 搭建具备多种功能，较为灵活](https://github.com/xiaochengzi6/Rx-pack)
-
-3. 文件树形图转路径：
-   - [根据项目模板(树形图)自动创建文件](https://github.com/xiaochengzi6/rx-file)
-
-4. 在线简历：
-   - [在线编辑、导出 pdf : https://github.com/xiaochengzi6/resume](https://xiaochengzi6.gitee.io/resume/#/MainPage)
+4. 在线简历：[在线编辑、导出 pdf : https://github.com/xiaochengzi6/resume](https://xiaochengzi6.gitee.io/resume/#/MainPage)
 
 #### 源码心得
 1. history [源码心得](https://github.com/xiaochengzi6/history)
