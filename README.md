@@ -7,7 +7,7 @@
 - 📫我的邮箱：2742217795@qq.com
 - 📝个人博客：https://github.com/xiaochengzi6/Blog
 
-我的技术栈：`React 全家桶`、`webpack`、`Rollup`、`Babel`、`Ts`
+技术栈：`React 全家桶`、`webpack`、`Rollup`、`Babel`、`Ts`
 #### 我的开源项目
 - 简易的 js 编译器：[将 JS 代码生成 ast](https://github.com/xiaochengzi6/simple-ast)
 - react 脚手架：[使用 webpack + Babel 搭建具备多种功能，较为灵活](https://github.com/xiaochengzi6/Rx-pack)
