@@ -6,7 +6,7 @@
 - 👯如果有类似项目需要小伙伴的话可以联系我哟！
 - 📫我的邮箱：2742217795@qq.com
 - 📝个人博客：https://github.com/xiaochengzi6/Blog
-
+ <img align="right" alt="GIF" src="./code.gif" width="430" height="100%" />
 #### 技术栈与开发工具
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /></code>
