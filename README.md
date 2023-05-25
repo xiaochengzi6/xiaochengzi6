@@ -1,4 +1,4 @@
-### Hi there <a href="https://github.com/xiaochengzi6/Blog"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+## Hi there <a href="https://github.com/xiaochengzi6/Blog"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 > 求职中 💬
 
 喜欢研究一些 JS 工具和造轮子，对工程化、组件库、编辑器、编译器比较感兴趣 😄
@@ -7,6 +7,7 @@
 - 📫我的邮箱：2742217795@qq.com
 - 📝个人博客：https://github.com/xiaochengzi6/Blog
  <img align="right" alt="GIF" src="./code.gif" width="430" height="100%" />
+ 
 #### 技术栈与开发工具
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /></code>
