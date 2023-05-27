@@ -23,7 +23,7 @@
 - 文件树形图转路径：[根据项目模板(树形图)自动创建文件](https://github.com/xiaochengzi6/rx-file)
 - 在线简历：[在线编辑、导出 pdf : https://github.com/xiaochengzi6/resume](https://xiaochengzi6.gitee.io/resume/#/MainPage)
 - 有待完善[文件解析](https://github.com/xiaochengzi6/file-analyse)
-
+- Ts 教程[有待完善](https://github.com/xiaochengzi6/Ts)
 <details>
     <summary>源码心得</summary>
     <li>history<a target="_blank" href="https://github.com/xiaochengzi6/history">源码心得</a></li>
