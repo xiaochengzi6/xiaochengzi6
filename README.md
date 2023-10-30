@@ -1,9 +1,9 @@
 ### Hi there <a href="https://github.com/xiaochengzi6/Blog"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-> 求职中 💬
+> 一个失败的 man, 被前端抛弃或者是我主动放弃的-[原因](https://github.com/xiaochengzi6/Blog/issues/78)
 
-喜欢研究一些 JS 工具和造轮子，对工程化、组件库、编辑器、编译器比较感兴趣 😄
+~~喜欢研究一些 JS 工具和造轮子，对工程化、组件库、编辑器、编译器比较感兴趣 😄~~
 
-- 👯如果有类似项目需要小伙伴的话可以联系我哟！
+- ~~👯如果有类似项目需要小伙伴的话可以联系我哟！~~
 - 📫我的邮箱：2742217795@qq.com
 - 📝个人博客：https://github.com/xiaochengzi6/Blog
  <img align="right" alt="GIF" src="./code.gif" width="430" height="100%" />
